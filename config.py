@@ -6,12 +6,12 @@ from pyrogram import filters
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", "24673963"))
-API_HASH = getenv("API_HASH", "f41d7f29464cbbbca6bf23f31210df09")
+API_ID = int(getenv("API_ID", "23595498"))
+API_HASH = getenv("API_HASH", "0745937c336d0eb0d234cd029ab9d3c1)
 BOT_TOKEN = getenv("BOT_TOKEN", "7127166323:AAHmZq0sepyUIvFRhlsVaOrS32jZGn7jj3g")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://kurt67143:nays@cluster0.vjg7bma.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 500))
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002065943011"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002065943011)
 OWNER_ID = int(getenv("OWNER_ID", 7036733368))
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
@@ -20,7 +20,7 @@ UPSTREAM_REPO = getenv(
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/mehmetttbio")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/hissizmehmet")
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
-STRING1 = getenv("STRING_SESSION", "BAGXyHkAExDn_q6oRw2SutldqpE7rK4wMutB4sWExH7sFdZbf4JScQCi3WMgC8jp7rh_bZEe8cSGrVfV1tz07aFx8bm_Z1m8TuASeLeWSFkyzm8rk6FqRJp1gb-LA_nNubofBTiRP-OjADy_S_jpIH_vEm7kmcNB8WJJWCTp217nO-7Pxkws63zrzZoewKBFxgJ2xfhnfCgi1qiI7f5ZoF6reNTWL58uDlJVdrs7hy4kKeleq1H_LWXQGj-ljU1Gm6aPwRZVY5de1DqJia-1VfGWf1ZeIH6FrgnnYKfH7gmBP2hpV1a85j8wpWDF2fH6QDysPWivKVbwyT8Sa3pjUnEViZEYIAAAAAGgzboHAA")
+STRING1 = getenv("STRING_SESSION", "BAGXyHkAr27KHScwYdqUSJThHTlCXRLXtlcRgt6umwy41zGkQ3qgwGmDdWCKt4UraIIaEflMyqdtkS9plbT7M68SjNNK0ImzJho-a-QISXsgk8tpvdxCJGWLd8VuAjCv7mDJcsq5vmQV8UwEDQIj1D4TjD5ZjZN-NRJKYLiTENLaSLk1zDDtEsm-062WNaW3ZuyDlOwTSL5v-QlRQAOUXne6Z0xNJ3axpyCmUtvofXalUnOH7rUNIwysaBKaX7NmMMSpDV_CKWTcZD65z5nfIhGS6zh7SWVxOVxoVjDLKqGHcuiKtMkMgMBfhD5Y0NkRq_2n8069R0GnjIucJGDDtDU36naXagAAAAGgzboHAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
